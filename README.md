@@ -1,2 +1,3 @@
 # Top-Languages-Bar-Chart
-Using Javascript and D3
+Bar chart of most utilized languages 
+### See the project here [here](https://diogobatista1.github.io/Top-Languages-Bar-Chart/)
